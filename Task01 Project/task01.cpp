@@ -1,3 +1,4 @@
+#include "logic.h"
 // type == true --> max
 // type == flase --> min
 int get_extreme_index(int* arr, int size, bool type) {
